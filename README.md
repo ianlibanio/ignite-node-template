@@ -38,8 +38,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.JS](https://nodejs.org/en/)
-- [Express](https://sass-lang.com/)
+- [Node.JS](https://nodejs.org/)
+- [Express](https://expressjs.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 <!-- Caso necessário, adicionar outras. -->
